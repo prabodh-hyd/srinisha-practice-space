@@ -1,5 +1,5 @@
 function ReverseString(str) {
-return str.split('').reverse().join('')
+    return str.split('').reverse().join('')
 }
-      
+
 console.log(ReverseString("Srinisha"))
